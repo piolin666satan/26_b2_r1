@@ -9,7 +9,6 @@
 ## 1. Configuración de Base de Datos (Prisma.io)
 Se ha configurado una instancia de PostgreSQL en la nube utilizando Prisma.io.
 
-* **Enlace a la instancia:**
 * **Captura de configuración:** ![Configuración Prisma](./Evidencias/Captura%20de%20pantalla%202026-02-24%20122343.png)
 
 ---
@@ -30,7 +29,7 @@ Se crearon al menos 3 estudiantes diferentes.
 
 ### B. GET ALL - Listar Estudiantes
 Obtención de la lista completa de registros.  
-![GET ALL Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20111701.png)
+![GET ALL Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20111357.png)
 
 ### C. GET by Email
 Búsqueda de un estudiante específico por su correo electrónico.  
