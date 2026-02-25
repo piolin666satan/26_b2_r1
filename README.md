@@ -9,7 +9,7 @@
 ## 1. Configuración de Base de Datos (Prisma.io)
 Se ha configurado una instancia de PostgreSQL en la nube utilizando Prisma.io.
 
-* **Enlace a la instancia:** [PEGA AQUÍ EL LINK A TU PROYECTO DE PRISMA]
+* **Enlace a la instancia:**
 * **Captura de configuración:** ![Configuración Prisma](./Evidencias/Captura%20de%20pantalla%202026-02-24%20122343.png)
 
 ---
