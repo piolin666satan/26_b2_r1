@@ -31,15 +31,19 @@ Se crearon al menos 3 estudiantes diferentes.
 Obtención de la lista completa de registros.  
 ![GET ALL Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20111357.png)
 
-### C. GET by Email
+## C. GET by ID
+Búsqueda de un estudiante específico por su ID.
+![GET ID Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20175828.png)
+
+### D. GET by Email
 Búsqueda de un estudiante específico por su correo electrónico.  
 ![GET Email Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20111701.png)
 
-### D. PUT - Actualizar Estudiante
+### E. PUT - Actualizar Estudiante
 Actualización de la información de un registro existente.  
 ![PUT Evidence](./Evidencias/Captura%20de%20pantalla%202026-02-24%20173303.png)
 
-### E. DELETE - Eliminar Estudiante
+### F. DELETE - Eliminar Estudiante
 Eliminación de un registro de la base de datos.  
 ![DELETE Evidence](./Evidencias/Captura.PNG)
 
